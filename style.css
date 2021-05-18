@@ -97,3 +97,23 @@ section{
 .latest-work h1{
     text-align: center;
 }
+.compliment{
+    text-align: center;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: 80%;
+}
+.contact{
+    
+    margin-left:300px;
+    margin-right:300px;
+    margin-top: 80px;
+    background-color: rgb(236, 37, 70);
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+footer{
+    text-align: center;
+}
